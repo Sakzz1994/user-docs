@@ -12,4 +12,4 @@ REST OpenAPI specification
 
 {% file src="../../.gitbook/assets/rest-spec.json" %}
 REST OpenAPI specification
-{% endfile %}
+{% endfile %} ganarate privet keys personal project
